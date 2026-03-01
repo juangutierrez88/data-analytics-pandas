@@ -1,0 +1,17 @@
+# Entornos virtuales
+.venv/
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Archivos de Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+
+# Archivos de IDE
+.vscode/
+.idea/
