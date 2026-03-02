@@ -15,3 +15,8 @@ __pycache__/
 # Archivos de IDE
 .vscode/
 .idea/
+
+# Extras
+*.csv
+*.xlsx
+*.json
